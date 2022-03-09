@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactloginapp/static/css/main.073c9b0a.css",
-    "main.js": "/reactloginapp/static/js/main.d944ab1c.js",
-    "static/js/787.b56f082d.chunk.js": "/reactloginapp/static/js/787.b56f082d.chunk.js",
-    "index.html": "/reactloginapp/index.html",
-    "main.073c9b0a.css.map": "/reactloginapp/static/css/main.073c9b0a.css.map",
-    "main.d944ab1c.js.map": "/reactloginapp/static/js/main.d944ab1c.js.map",
-    "787.b56f082d.chunk.js.map": "/reactloginapp/static/js/787.b56f082d.chunk.js.map"
+    "main.css": "/qalogin1.technologychannel.org/static/css/main.073c9b0a.css",
+    "main.js": "/qalogin1.technologychannel.org/static/js/main.77c9e347.js",
+    "static/js/787.b56f082d.chunk.js": "/qalogin1.technologychannel.org/static/js/787.b56f082d.chunk.js",
+    "index.html": "/qalogin1.technologychannel.org/index.html",
+    "main.073c9b0a.css.map": "/qalogin1.technologychannel.org/static/css/main.073c9b0a.css.map",
+    "main.77c9e347.js.map": "/qalogin1.technologychannel.org/static/js/main.77c9e347.js.map",
+    "787.b56f082d.chunk.js.map": "/qalogin1.technologychannel.org/static/js/787.b56f082d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d944ab1c.js"
+    "static/js/main.77c9e347.js"
   ]
 }
